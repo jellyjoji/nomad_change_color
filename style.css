@@ -1,0 +1,20 @@
+body{
+    background-color: purple;
+    font-size: 3rem;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
